@@ -64,9 +64,9 @@ pip install -r requirements.txt
 
 ## Usage 🚀
 
-### Download XY Tokenize
+### Download XY Tokenizer
 
-You need to download the XY Tokenizer model weights. You can find the weights in the [XY_Tokenizer Huggingf Face repository](https://huggingface.co/fdugyt/XY_Tokenizer).
+You need to download the XY Tokenizer model weights. You can find the weights in the [XY_Tokenizer Hugging Face repository](https://huggingface.co/fdugyt/XY_Tokenizer).
 
 ```bash
 mkdir -p XY_Tokenizer/weights && huggingface-cli download fdugyt/XY_Tokenizer xy_tokenizer.ckpt --local-dir ./weights/

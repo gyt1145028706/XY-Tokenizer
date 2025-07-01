@@ -46,7 +46,7 @@ To use XY-Tokenizer, you need to install the required dependencies. You can use 
 
 ```bash
 # Clone repository
-git clone git@github.com:gyt1145028706/XY-Tokenizer.git && cd XY_Tokenizer
+git clone git@github.com:gyt1145028706/XY-Tokenizer.git && cd XY-Tokenizer
 
 # Create and activate conda environment
 conda create -n xy_tokenizer python=3.10 -y && conda activate xy_tokenizer

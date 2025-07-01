@@ -1,0 +1,8 @@
+numpy
+torch
+torchaudio
+einops
+debugpy
+librosa
+pyyaml
+transformers

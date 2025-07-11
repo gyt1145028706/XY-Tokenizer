@@ -1,2 +1,4 @@
 *.pyc
 weights/*
+dev
+output_wavs/*

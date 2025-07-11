@@ -3,7 +3,7 @@
     XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs
     </h1>
     <p>
-    <a href="???"><img src="https://img.shields.io/badge/Blog-Read%20More-green" alt="blog"></a>
+    <a href="https://gyt1145028706.github.io/XY-Tokenizer.github.io/"><img src="https://img.shields.io/badge/Blog-Read%20More-green" alt="blog"></a>
     <a href="https://arxiv.org/pdf/2506.23325"><img src="https://img.shields.io/badge/Paper-Arxiv-red" alt="paper"></a>
     <a href="https://huggingface.co/fdugyt/XY_Tokenizer"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Page-yellow" alt="Hugging Face"></a>
     <a href="https://github.com/"><img src="https://img.shields.io/badge/Python-3.10+-orange" alt="version"></a>
@@ -17,7 +17,7 @@
 
 **XY-Tokenizer** is a novel speech codec designed to bridge the gap between speech signals and large language models by simultaneously **modeling both semantic and acoustic information**. It operates at a bitrate of **1 kbps** (1000 bps), using **8-layer Residual Vector Quantization (RVQ8)** at a **12.5 Hz** frame rate.
 
-At this ultra-low bitrate, **XY-Tokenizer** achieves performance comparable to state-of-the-art speech codecs that focus on only one aspect—either semantic or acoustic—while **XY-Tokenizer** performs strongly on both. For detailed information about the model and demos, please refer to our [Blog](???). You can also find the model on [Hugging Face](https://huggingface.co/fdugyt/XY_Tokenizer).
+At this ultra-low bitrate, **XY-Tokenizer** achieves performance comparable to state-of-the-art speech codecs that focus on only one aspect—either semantic or acoustic—while **XY-Tokenizer** performs strongly on both. For detailed information about the model and demos, please refer to our [Blog](https://gyt1145028706.github.io/XY-Tokenizer.github.io/). You can also find the model on [Hugging Face](https://huggingface.co/fdugyt/XY_Tokenizer).
 
 ## Highlights ✨
 
@@ -36,7 +36,7 @@ At this ultra-low bitrate, **XY-Tokenizer** achieves performance comparable to s
 
 ## News 📢
 
-- **[2025-06-28]** We released the code and checkpoints of XY-Tokenizer. Check out our [paper](???) and [demo](???)!     
+- **[2025-06-28]** We released the code and checkpoints of XY-Tokenizer. Check out our [paper](https://arxiv.org/pdf/2506.23325) and [demo](https://gyt1145028706.github.io/XY-Tokenizer.github.io/)!     
 
 ## Installation 🛠️
 
@@ -88,7 +88,7 @@ The reconstructed audio files will be available in the `output_wavs/` directory.
 
 ## Demos 🎮
 
-See our blog for more demos at [Blog](???)
+See our blog for more demos at [Blog](https://gyt1145028706.github.io/XY-Tokenizer.github.io/)
 
 ## License 📜
 

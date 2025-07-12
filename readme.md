@@ -37,6 +37,7 @@ At this ultra-low bitrate, **XY-Tokenizer** achieves performance comparable to s
 ## News 📢
 
 - **[2025-06-28]** We released the code and checkpoints of XY-Tokenizer. Check out our [paper](https://arxiv.org/pdf/2506.23325) and [demo](https://gyt1145028706.github.io/XY-Tokenizer.github.io/)!     
+- **[2025-07-11]** We released the XY-Tokenizer [blog](https://gyt1145028706.github.io/XY-Tokenizer.github.io/) with detailed technical insights and experimental results!
 
 ## Installation 🛠️
 

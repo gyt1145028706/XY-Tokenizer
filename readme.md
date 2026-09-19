@@ -80,7 +80,7 @@ First, set the Python path to include this repository:
 export PYTHONPATH=$PYTHONPATH:./
 ```
 
-Then you can tokenize audio to speech tokens and generate reconstructed audio from these tokens by running:
+Place your input audio files in the `input_wavs/` directory. Then you can tokenize audio to speech tokens and generate reconstructed audio from these tokens by running:
 ```python
 python inference.py 
 ```

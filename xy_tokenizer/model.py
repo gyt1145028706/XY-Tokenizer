@@ -266,7 +266,7 @@ class XY_Tokenizer(nn.Module):
         model = cls(config['generator_params'])
         
         # Load checkpoint
-        checkpoint = torch.load(ckpt_path, map_location='cpu')
+        checkpoint = torch.load(ckpt_path, map_location='cpu', weights_only=True)
         
         # Check if checkpoint contains 'generator' key
         if 'generator' in checkpoint:
